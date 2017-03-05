@@ -1,0 +1,26 @@
+{
+  "name": "soccermaps",
+  "version": "0.1.0",
+  "description": "Test mapping soccer data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-bernhardt/soccermaps.git"
+  },
+  "keywords": [
+    "soccer",
+    "datamaps"
+  ],
+  "author": "Matt Bernhardt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matt-bernhardt/soccermaps/issues"
+  },
+  "homepage": "https://github.com/matt-bernhardt/soccermaps#readme",
+  "dependencies": {
+    "datamaps": "^0.5.8"
+  }
+}
